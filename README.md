@@ -11,4 +11,3 @@ git commit -m "Add Readme & Git Commit File"
 git pull
 git push --all
 ```
-adf
