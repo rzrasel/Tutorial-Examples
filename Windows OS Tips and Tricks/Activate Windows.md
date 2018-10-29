@@ -1,5 +1,10 @@
 ### Activate Windows
 
+How to activate windows:
+1. Copy any one way from here
+2. Past it in notepad
+3. Save the note pad with file extension "Activate Windows.cmd"
+
 Windows Key:
 ```windows_key
 W269N-WFGWX-YVC9B-4J6C9-T83GX
