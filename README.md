@@ -3,7 +3,7 @@
 ### GIT Command
 ```git_command
 git init
-git remote add origin https://github.com/rzrasel/maven-upload.git
+git remote add origin https://github.com/rzrasel/Tutorial-Examples.git
 git remote -v
 git fetch && git checkout master
 git add .
