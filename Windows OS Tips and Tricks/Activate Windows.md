@@ -3,7 +3,7 @@
 #### How to activate windows:
 1. Copy any one way from here
 2. Past it into a new text notepad
-3. Save it as a batch file with file extension ".cmd" as like "Activate Windows.cmd"
+3. Save it as a batch file with file extension <kbd>.cmd</kbd> as like <kbd>Activate Windows.cmd</kbd>
 4. Right click on the batch file and run the batch file as administrator
 
 #### Windows Key:
