@@ -19,9 +19,9 @@ Download Free Project File - https://bit.ly/2P4VCBn
 <p>
 Live Support, Subscribe And Social Media:
 
-▶Please subscribe channel: https://www.youtube.com/channel/UCOi5...
+▶Please subscribe channel: https://www.youtube.com/channel/UClFQT9xfV5G825IC5Ih-9AA
 
-▶Facebook: https://www.facebook.com/AdobeAfterEf...
+▶Facebook: Badge Mate: https://www.facebook.com/groups/badgemate/
 
 ✫✫✫✫✫Thanks For Watching✫✫✫✫✫
 </p>
@@ -67,14 +67,14 @@ Adobe after effects tutorial: Disintegration Effect Video Stock: http://aevideos
 So today I am gonna show you how to design and animate stylish Instagram story to amplify your reach even more!
 </p>
 <p>
-Download Free Project File - https://bit.ly/2P4VCBn
+Download Free Project File - https://bit.ly/
 </p>
 <p>
 Live Support, Subscribe And Social Media:
 
 ▶Please subscribe channel: https://www.youtube.com/channel/UCOi5...
 
-▶Facebook: https://www.facebook.com/AdobeAfterEf...
+▶Facebook: Badge Mate: https://www.facebook.com/groups/badgemate/
 
 ✫✫✫✫✫Thanks For Watching✫✫✫✫✫
 </p>
