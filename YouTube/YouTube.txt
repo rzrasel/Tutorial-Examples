@@ -1,13 +1,39 @@
-#!/bin/bash
-printf "Enter Commit Text: "
-read input
 
-dateTime=$(date "+%Y-%m-%d %H:%M:%S")
-commit="git commit -m"
-gitcommit="$commit \"$input - $dateTime\""
-echo "$gitcommit"
-git add .
-git commit -m "$input - $dateTime"
-git pull
-git push --all
-echo Process Complete Press Enter....
+
+
+
+Tag Main:
+<br />
+rzrasel,
+rz rasel,
+Rz Rasel,
+rasheduzzaman,
+rashed uz zaman,
+Rashed Uz Zaman,
+Rashed - Uz - Zaman,
+badgemate,
+badge mate,
+Badge Mate,
+tutorial,
+apphive,
+app hive,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
