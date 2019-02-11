@@ -1,12 +1,17 @@
 
 <p>
+Hey Everyone, Welcome Back Again.
 Adobe after effects tutorial: Disintegration Effect Video Stock: http://aevideos.net/after-effects-tut...
 
 HSC ICT Board Question Solution Dhaka Board-2017 Question No. 7
 
 So today I am gonna show you how to solve this question even more!
 
+As always, this tutorial is Free, and we are not using any third party plugin for creating this. 
+
 Every video on my channel is made with Love and Hard work, So don't forget to leave a Like. Also please hit the SUBSCRIBE button it's FREE
+
+Every single Tutorial on my channel is made with Love and Hard work, So don't forget to leave a Like.. :)
 </p>
 <p>
 Download Free Project File - https://bit.ly/2P4VCBn
@@ -55,6 +60,7 @@ dhaka board 2017,
 
 
 <p>
+Hey Everyone, Welcome Back Again.
 Adobe after effects tutorial: Disintegration Effect Video Stock: http://aevideos.net/after-effects-tut...
 
 So today I am gonna show you how to design and animate stylish Instagram story to amplify your reach even more!
