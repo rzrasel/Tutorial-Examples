@@ -165,6 +165,8 @@ Math Formulas Logo Reveal | After Effects template
 https://www.youtube.com/watch?v=V4vuwwOX8ZU
 Introduction to Mathematics
 https://www.youtube.com/watch?v=aaJo07SrSWQ
+What is Mathematics?
+https://www.youtube.com/watch?v=uMO95_YlEKM
 
 
 
