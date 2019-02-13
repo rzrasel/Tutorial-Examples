@@ -139,6 +139,12 @@ Random XYZ Position in Adobe After Effects
 https://www.youtube.com/watch?v=qNhXjGRSe-s
 Интро "Рандомные слова и буквы" [Randomly text and letters]
 https://www.youtube.com/watch?v=lSYHh3I219c
+Learn how to create an Infinite Zoom effect in After Effects
+https://www.youtube.com/watch?v=IvwtKEFSi2U
+Flip clock Animation Tutorial 06 | After effect
+https://www.youtube.com/watch?v=Nb_oIuzLSmE
+Flip Clock Countdown and Up - Adobe After Effects tutorial
+https://www.youtube.com/watch?v=4RlAxTWuYxI
 
 
 
