@@ -147,6 +147,8 @@ Flip Clock Countdown and Up - Adobe After Effects tutorial
 https://www.youtube.com/watch?v=4RlAxTWuYxI
 Slice effect in After Effects
 https://www.youtube.com/watch?v=PwV8PhwdLrU
+Energy Trails Intro - After Effects Tutorial ( No plug-ins! )
+https://www.youtube.com/watch?v=vmej_2q1_SY
 
 
 
