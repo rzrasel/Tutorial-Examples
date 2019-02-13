@@ -129,6 +129,12 @@ After Effects Super Zoom Transition Tutorial
 https://www.youtube.com/watch?v=i3GpjCPoKS4
 Cinematic Zoom Transition in After Effects - After Effects Tutorial - Easy Method
 https://www.youtube.com/watch?v=cZXPGcy9qLc
+The Power of UV Passes in After Effects
+https://www.youtube.com/watch?v=5s6Hf68TE34
+After Effects Tutorial: Card Wipe - Transition
+https://www.youtube.com/watch?v=liv06kO-Qzo
+CZTUTORIÁL - After Effects 123 - Card Dance efekt
+https://www.youtube.com/watch?v=jbnpngtONno
 
 
 
