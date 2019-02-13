@@ -125,6 +125,10 @@ The Handwriting Effect in After Effects CC
 https://www.youtube.com/watch?v=d7ObmR8qgmo
 Handwriting Animation After Effects CC
 https://www.youtube.com/watch?v=muMh8ki6m0c
+After Effects Super Zoom Transition Tutorial
+https://www.youtube.com/watch?v=i3GpjCPoKS4
+Cinematic Zoom Transition in After Effects - After Effects Tutorial - Easy Method
+https://www.youtube.com/watch?v=cZXPGcy9qLc
 
 
 
