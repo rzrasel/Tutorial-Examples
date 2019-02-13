@@ -159,6 +159,10 @@ Cloudy-Moonlit Night in After Effects - Tutorial
 https://www.youtube.com/watch?v=rct3bs46jmI
 How to Create a Flying Through The Clouds Effect In After Effects Tutorial
 https://www.youtube.com/watch?v=1FzajaSMsEg
+After Effects Tutorial | Chemistry Animation | Video Junction
+https://www.youtube.com/watch?v=QxswOMf0qio
+Math Formulas Logo Reveal | After Effects template
+https://www.youtube.com/watch?v=V4vuwwOX8ZU
 
 
 
