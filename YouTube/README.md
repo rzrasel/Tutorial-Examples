@@ -163,6 +163,8 @@ After Effects Tutorial | Chemistry Animation | Video Junction
 https://www.youtube.com/watch?v=QxswOMf0qio
 Math Formulas Logo Reveal | After Effects template
 https://www.youtube.com/watch?v=V4vuwwOX8ZU
+Introduction to Mathematics
+https://www.youtube.com/watch?v=aaJo07SrSWQ
 
 
 
