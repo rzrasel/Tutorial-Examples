@@ -157,6 +157,8 @@ Adobe After Effects Tutorial - Creating Clouds Using Trapcode Particular
 https://www.youtube.com/watch?v=6zF0zNvtfq4
 Cloudy-Moonlit Night in After Effects - Tutorial
 https://www.youtube.com/watch?v=rct3bs46jmI
+How to Create a Flying Through The Clouds Effect In After Effects Tutorial
+https://www.youtube.com/watch?v=1FzajaSMsEg
 
 
 
