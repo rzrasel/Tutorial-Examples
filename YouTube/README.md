@@ -153,6 +153,10 @@ Part One - Creating and Tracking Smoke in Adobe After Effects CS6
 https://www.youtube.com/watch?v=zf3z60OSc7I
 Smoke - After Effects Tutorial - Particular
 https://www.youtube.com/watch?v=yK2b-CbE9gg
+Adobe After Effects Tutorial - Creating Clouds Using Trapcode Particular
+https://www.youtube.com/watch?v=6zF0zNvtfq4
+Cloudy-Moonlit Night in After Effects - Tutorial
+https://www.youtube.com/watch?v=rct3bs46jmI
 
 
 
@@ -167,6 +171,8 @@ Card Modeling and rendering in Blender
 https://www.youtube.com/watch?v=a9Ng6hGLfUc
 Double Sided Playing Cards in Blender 2.5 - Blender 3D
 https://www.youtube.com/watch?v=Ja42pW_9_D8
+Domino Effect Blender Beginner Tutorial Rigid Body
+https://www.youtube.com/watch?v=ekeRQVH09oQ
 
 
 
