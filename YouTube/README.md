@@ -135,6 +135,10 @@ After Effects Tutorial: Card Wipe - Transition
 https://www.youtube.com/watch?v=liv06kO-Qzo
 CZTUTORIÁL - After Effects 123 - Card Dance efekt
 https://www.youtube.com/watch?v=jbnpngtONno
+Random XYZ Position in Adobe After Effects
+https://www.youtube.com/watch?v=qNhXjGRSe-s
+Интро "Рандомные слова и буквы" [Randomly text and letters]
+https://www.youtube.com/watch?v=lSYHh3I219c
 
 
 
