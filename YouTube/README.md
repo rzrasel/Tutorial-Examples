@@ -105,8 +105,40 @@ https://www.scribens.com/
 https://virtualwritingtutor.com/
 </p>
 
+Prismatic Panel Slideshow after effects tutorial
 Sample
 https://www.facebook.com/RobiFanz/videos/466033660594458/
+
+Playing Cards - After Effects Project
+https://www.youtube.com/watch?v=vQRP6Tdw--I
+Tutorial 134: Tiny Card Dancer
+https://www.youtube.com/watch?v=hQ33W2pWGBQ
+How to - After Effects Physics Lab - Expressions for realistic movements
+https://www.youtube.com/watch?v=vlgSqH76VDk
+E learning Demo Part 1 using 3D After Effects
+https://www.youtube.com/watch?v=2l5pbI5QJjc
+3D Card Flip UI Animation Tutorial - Adding Motion to your Designs
+https://www.youtube.com/watch?v=qQJ_aXU_elQ
+The Handwriting Effect in After Effects CC
+https://www.youtube.com/watch?v=d7ObmR8qgmo
+The Handwriting Effect in After Effects CC
+https://www.youtube.com/watch?v=d7ObmR8qgmo
+Handwriting Animation After Effects CC
+https://www.youtube.com/watch?v=muMh8ki6m0c
+
+
+
+
+Blender physics simulations tutorial || Dominoes in blender || blender rigid body physics
+https://www.youtube.com/watch?v=DGv6gkofEAE
+Quick and Easy Traffic Simulations in Blender! CGC Weekly #19
+https://www.youtube.com/watch?v=wWEwxtu9gGc
+The Visit Card (a lot of them :P) - Blender Tutorial
+https://www.youtube.com/watch?v=re9quBYOkNo
+Card Modeling and rendering in Blender
+https://www.youtube.com/watch?v=a9Ng6hGLfUc
+Double Sided Playing Cards in Blender 2.5 - Blender 3D
+https://www.youtube.com/watch?v=Ja42pW_9_D8
 
 
 
