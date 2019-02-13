@@ -149,6 +149,10 @@ Slice effect in After Effects
 https://www.youtube.com/watch?v=PwV8PhwdLrU
 Energy Trails Intro - After Effects Tutorial ( No plug-ins! )
 https://www.youtube.com/watch?v=vmej_2q1_SY
+Part One - Creating and Tracking Smoke in Adobe After Effects CS6
+https://www.youtube.com/watch?v=zf3z60OSc7I
+Smoke - After Effects Tutorial - Particular
+https://www.youtube.com/watch?v=yK2b-CbE9gg
 
 
 
