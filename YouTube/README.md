@@ -1,13 +1,18 @@
 
 <p>
 Hey Everyone, Welcome Back Again:
-This is an After Effects tutorial. In this tutorial we try to learn how to make a lower thirds very simple way. After finishing this tutorial video you can create this lower thirds by your own. In this tutorial we are not using any third party plugin. So, using by default options and components you can easily create this. And also you can download this project file from below.
 
-If you have any question, please leave it in the comments below, and please tell me do you like/dislike my work and tutorial or what you want to learn.
+This is an After Effects tutorial. In this tutorial we try to learn how to make a lower thirds very simple way. After finishing this tutorial video you can create this lower thirds by your own. In this tutorial we are not using any third-party plugin. So, using by default options and components, you can easily create this. And also you can download this project file from below.
+
+
+If you have any question, please leave it in the comments below and please tell me do you like/dislike my work and tutorial or what you want to learn.
+
 
 As always, this tutorial is free.
 
-Every single tutorial in this channel is made with love and hard work, So don't forget to subscribe and leave a like or comment for help us to make new tutorial.
+
+Every single tutorial in this channel made with love and hard work, So don't forget to subscribe and leave a like or comment to help us to make a new tutorial.
+
 
 Please hit the SUBSCRIBE button it's FREE
 </p>
@@ -96,6 +101,8 @@ Every single Tutorial on my channel is made with Love and Hard work, So don't fo
 https://www.gingersoftware.com/grammarcheck#.XGPigqZS_L8
 http://www.reverso.net/spell-checker/english-spelling-grammar/
 https://www.grammarcheck.net/editor/
+https://www.scribens.com/
+https://virtualwritingtutor.com/
 </p>
 
 
