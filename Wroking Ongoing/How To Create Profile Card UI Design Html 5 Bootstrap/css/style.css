@@ -1,0 +1,129 @@
+html {
+    height: 100%
+}
+body {
+    background-image:url("../images/bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.our-team {
+  padding: 30px 0px 40px;
+  background: #ffffff;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+}
+.team-image {
+  display: inline-block;
+  width: 130px;
+  height: 130px;
+  margin-bottom: 50px;
+  position: relative;
+  z-index: 1;
+}
+.team-image:before {
+  content: "";
+  width: 100%;
+  height: 0px;
+  background: #eb1768;
+  position: absolute;
+  border-radius: 50%;
+  bottom: 135%;
+  right: 0px;
+  left: 0px;
+  transform: scale(3);
+  /*transition: all 0.3s linear 0s;*/
+  transition: all 0.3s ease 0s;
+}
+.team-image:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: #eb1768; /*#eb1768;*/
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+}
+.our-team:hover .team-image:before {
+  height: 100%;
+}
+.team-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  transform: scale(1);
+  transition: all 0.3s ease 0s;
+}
+.our-team:hover .team-image img {
+  box-shadow: 0px 0px 0px 14px #f7f5ec;
+  transform: scale(0.7);
+}
+.team-content {
+  margin-bottom: 30px;
+}
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  color: #4e5052;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  margin-bottom: 5px;
+}
+.designation {
+  display: block;
+  font-size: 15px;
+  color: #4e5052;
+  text-transform: capitalize;
+}
+.social {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  background: #eb1768;
+  position: absolute;
+  bottom: -100px;
+  left: 0px;
+  transition: all 0.5s ease 0s
+}
+.social li {
+  display: inline-block;
+}
+.social li a {
+  display: block;
+  padding: 10px;
+  font-size: 17px;
+  color: #ffffff;
+  transition: all 0.3s ease 0s;
+}
+.social li a:hover {
+  color: #eb1768;
+  background: #f7f5ec;
+  text-decoration: none;
+}
+.our-team:hover .social {
+  bottom: 0px;
+}
+@media (max-width: 768px) {
+  .our-team {
+    margin-bottom: 30px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
