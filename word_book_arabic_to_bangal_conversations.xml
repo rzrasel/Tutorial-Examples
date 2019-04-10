@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<word_book_arabic_to_bangal>
+    <word_list subjective_category="BANK_MANAGER">
+        <word_item>
+            <audio_file>amake_bolun</audio_file>
+            <primary_word>আমাকে দেখুন</primary_word>
+            <secondary_word>(কুললি)</secondary_word>
+        </word_item>
+        <word_item>
+            <audio_file>apnar_vai_acen_ki</audio_file>
+            <primary_word>আপনার ভাই আছেন কি?</primary_word>
+            <secondary_word>(হাল আখুকা মাওজুদ)</secondary_word>
+        </word_item>
+    </word_list>
+    <word_list subjective_category="WORDS_OF_BODY">
+        <word_item>
+            <audio_file>amake_bolun</audio_file>
+            <primary_word>করিম কোথায় যাচ্ছ</primary_word>
+            <secondary_word>(আইনা তাযহাবু, ইয়া করিম)</secondary_word>
+        </word_item>
+        <word_item>
+            <audio_file>apnar_vai_acen_ki</audio_file>
+            <primary_word>পাসপোর্ট অফিসে যাচ্ছি</primary_word>
+            <secondary_word>(ইলা মাকতাবেল জাওয়ায)</secondary_word>
+        </word_item>
+    </word_list>
+    <word_list subjective_category="PASSPORT_OFFICE">
+        <word_item>
+            <audio_file>amake_bolun</audio_file>
+            <primary_word>করিম কোথায় যাচ্ছ</primary_word>
+            <secondary_word>(আইনা তাযহাবু, ইয়া করিম)</secondary_word>
+        </word_item>
+        <word_item>
+            <audio_file>amake_bolun</audio_file>
+            <primary_word>পাসপোর্ট অফিসে যাচ্ছি</primary_word>
+            <secondary_word>(ইলা মাকতাবেল জাওয়ায)</secondary_word>
+        </word_item>
+    </word_list>
+</word_book_arabic_to_bangal>

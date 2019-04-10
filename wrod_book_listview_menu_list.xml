@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wrod_book_listview_menu_list>
+    <listview_menu_group category="SOUND_STORE" label="Sound store - শব্দ ভান্ডার">
+        <listview_menu_item item="Report to the police station - থানায় এজাহার দেওয়া">
+            <menu_icon>thana_ajahar</menu_icon>
+            <menu_label_text>থানায় এজাহার দেওয়া</menu_label_text>
+            <next_window_audio_file>apnar_vai_acen_ki</next_window_audio_file>
+            <next_window_title>থানায় এজাহার দেওয়া</next_window_title>
+            <next_window_header>শরীর সম্ভন্ধে শব্দ</next_window_header>
+            <word_subjective_category>POLICE_STATION</word_subjective_category>
+        </listview_menu_item>
+    </listview_menu_group>
+    <listview_menu_group category="CONVERSATION_STORE" label="Conversation store - কথোপকথন">
+        <listview_menu_item item="Report to the police station - থানায় এজাহার দেওয়া">
+            <menu_icon>airport</menu_icon>
+            <menu_label_text>আত্মীয়-স্বজন সম্পর্কীত কথোপকথন</menu_label_text>
+            <next_window_audio_file>apnar_vai_acen_ki</next_window_audio_file>
+            <next_window_title>আত্মীয়-স্বজন সম্পর্কীত কথোপকথন</next_window_title>
+            <next_window_header>আত্মীয়-স্বজন সম্পর্কীত কথোপকথন</next_window_header>
+            <word_subjective_category>CONVERSATIONS_RELATIVES</word_subjective_category>
+        </listview_menu_item>
+
+        <listview_menu_item item="item description">
+            <menu_icon>kormostal</menu_icon>
+            <menu_label_text>দুই বন্ধুর কথোপকথন</menu_label_text>
+            <next_window_audio_file>apnar_vai_acen_ki</next_window_audio_file>
+            <next_window_title>দুই বন্ধুর কথোপকথন</next_window_title>
+            <next_window_header>দুই বন্ধুর কথোপকথন</next_window_header>
+            <word_subjective_category>CONVERSATIONS_FRIENDS</word_subjective_category>
+        </listview_menu_item>
+        <listview_menu_item item="item description">
+            <menu_icon>talk</menu_icon>
+            <menu_label_text>কিছু প্রয়োজনীয় বাক্য</menu_label_text>
+            <next_window_audio_file>apnar_vai_acen_ki</next_window_audio_file>
+            <next_window_title>কিছু প্রয়োজনীয় বাক্য</next_window_title>
+            <next_window_header>কিছু প্রয়োজনীয় বাক্য</next_window_header>
+            <word_subjective_category>REQUIRED_SENTENCES</word_subjective_category>
+        </listview_menu_item>
+        <listview_menu_item item="item description">
+            <menu_icon>talk</menu_icon>
+            <menu_label_text>ব্যাংক ম্যানেজারের সংগে আলাপ</menu_label_text>
+            <next_window_audio_file>apnar_vai_acen_ki</next_window_audio_file>
+            <next_window_title>ব্যাংক ম্যানেজারের সংগে আলাপ</next_window_title>
+            <next_window_header>ব্যাংক ম্যানেজারের সংগে আলাপ Header</next_window_header>
+            <word_subjective_category>BANK_MANAGER</word_subjective_category>
+        </listview_menu_item>
+        <listview_menu_item item="item description">
+            <menu_icon>talk</menu_icon>
+            <menu_label_text>শরীর সম্ভন্ধে শব্দ</menu_label_text>
+            <next_window_audio_file>apnar_vai_acen_ki</next_window_audio_file>
+            <next_window_title>শরীর সম্ভন্ধে শব্দ</next_window_title>
+            <next_window_header>শরীর সম্ভন্ধে শব্দ</next_window_header>
+            <word_subjective_category>WORDS_OF_BODY</word_subjective_category>
+        </listview_menu_item>
+        <!--<listview_menu_item item="item description">
+            <menu_icon>menu_icon</menu_icon>
+            <menu_label_text>menu_label_text</menu_label_text>
+            <next_window_title>next_window_title</next_window_title>
+            <word_subjective_category>word_subjective_category</word_subjective_category>
+        </listview_menu_item>-->
+    </listview_menu_group>
+</wrod_book_listview_menu_list>
