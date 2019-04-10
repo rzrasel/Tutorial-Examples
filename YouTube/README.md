@@ -70,7 +70,11 @@ types of ict,
 hsc ict class,
 hsc ict book,
 hsc ict html,
-ict hsc
+ict hsc,
+
+html board questions, html bangla video, html ict, html hyperlink, hsc ict bangla tutorial, ict chapter 4 hsc, ict bangla tutorial, bangla html tutorial, web, ict html tutorial, hsc ict chapter 4, ict 4th chapter, html, ict html video, html table, html image, adding image in html, ict chapter 4,
+
+hsc question 2018,board question solution,hsc question,hsc english 2nd paper question solution 2018,hsc english 2nd paper question solution,hsc ict mcq question solve 2018,dhaka board 2018 hsc quesstion,hsc ict mcq question with answer 2018,hsc ict mcq question & answer 2018,english 2nd paper question solution 2018,question solution,hsc ict question 2018,board question solve,
 
 <b>Tag After Effects:</b>
 <br />
@@ -205,9 +209,10 @@ https://www.youtube.com/watch?v=ekeRQVH09oQ
 
 
 
-
-
-
+Rapidtags
+https://rapidtags.io/generator
+Better Way To Web
+http://www.betterwaytoweb.com/tag-generator-for-youtube
 
 
 
