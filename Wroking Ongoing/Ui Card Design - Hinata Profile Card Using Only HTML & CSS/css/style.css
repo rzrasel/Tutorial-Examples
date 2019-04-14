@@ -50,7 +50,7 @@ body {
 }
 .card-header .menu ul {
   background: #333333b3;
-  padding: 6px 0px;
+  padding: 6px 6px;
   margin: 0px 14px;
   display: none;
 }
@@ -59,8 +59,15 @@ body {
   width: 30px;
   text-align: center;
 }
+.card-header .menu ul li a i {
+  color: #ffffff;
+  display: block;
+}
 .card-header .menu:hover > ul {
   display: block;
+}
+.card-header .menu ul li a:hover i {
+  color: #8e44ad;
 }
 .card-header .name {
   position: absolute;
