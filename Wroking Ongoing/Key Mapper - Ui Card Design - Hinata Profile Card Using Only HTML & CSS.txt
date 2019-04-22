@@ -14,14 +14,9 @@ di{ENTER}cover{DOWN}+{HOME}{BACKSPACE}{DOWN}{HOME}+{HOME}{BACKSPACE}{BACKSPACE}{
 di{ENTER}menu{END}{DOWN}
 
 ul{ENTER}
-
-                            <!--li{ENTER}{LEFT}{SPACE}cla{ENTER}ion-social-facebook{END}{ENTER}
-                            li{ENTER}{LEFT}{SPACE}cla{ENTER}ion-social-twitter{END}{ENTER}
-                            li{ENTER}{LEFT}{SPACE}cla{ENTER}ion-social-instag{END}{DOWN}{ENTER}-->
-
-li{ENTER}a{ENTER}{LEFT}{LEFT}{LEFT}i{RIGHT}{SPACE}cla{ENTER}ion-social-facebook{END}{ENTER}
-li{ENTER}a{ENTER}{LEFT}{LEFT}{LEFT}i{RIGHT}{SPACE}cla{ENTER}ion-social-twitter{END}{ENTER
-li{ENTER}a{ENTER}{LEFT}{LEFT}{LEFT}i{RIGHT}{SPACE}cla{ENTER}ion-social-instagram{END}{ENTER
+li{ENTER}a{ENTER}{RIGHT}{RIGHT}{RIGHT}i{ENTER}{LEFT}{SPACE}cla{ENTER}ion-social-facebook{END}{ENTER}
+li{ENTER}a{ENTER}{RIGHT}{RIGHT}{RIGHT}i{ENTER}{LEFT}{SPACE}cla{ENTER}ion-social-twitter{END}{ENTER}
+li{ENTER}a{ENTER}{RIGHT}{RIGHT}{RIGHT}i{ENTER}{LEFT}{SPACE}cla{ENTER}ion-social-instagram{END}{ENTER}
 sp{ENTER}{LEFT}{SPACE}cla{ENTER}ion-android-more-vertical{DOWN}{ENTER}
 
 di{ENTER}name{DOWN}
@@ -32,12 +27,11 @@ sp{ENTER}Mate^{LEFT}{LEFT}{SPACE}cla{ENTER}first{END}
 di{ENTER}container{DOWN}
 di{ENTER}left-section{DOWN}
 h3{ENTER}About{END}{ENTER}
-p{ENTER}Hi! I am Rashed - Uz - Zaman(Rz Rasel), Badge Mate is my youtube channel.{END}{ENTER}
+p{ENTER}Hi! I am Rashed - Uz - Zaman{(}Rz Rasel{)}, Badge Mate is my youtube channel.{END}{ENTER}
 
 a{ENTER}^{LEFT}^{LEFT}{LEFT}{SPACE}cla{ENTER}btn-follow^{RIGHT}^{RIGHT}^{RIGHT}{LEFT}{LEFT}Follow Me{END}
 
 {END}{DOWN}{ENTER}
-
 
 di{ENTER}right-section{DOWN}
 di{ENTER}item{END}{DOWN}
