@@ -99,7 +99,7 @@ cur{ENTER}poi{ENTER}{DOWN}{ENTER}
 fosi{ENTER}32px;{DOWN}{ENTER}
 
 .card-header .menu ul {{}{ENTER}
-band{ENTER}#333333b3;{ENTER}{TAB}/*b3 = 70{%} opacity, here is used #AARRGGBB but by default we use #RRGGBB*/{ENTER}
+band{ENTER}#333333b3;{TAB}/*b3 = 70{%} opacity, here is used #AARRGGBB but by default we use #RRGGBB*/{ENTER}
 padg{ENTER}6px 0px;{ENTER}
 marn{ENTER}0px 14px;{ENTER}
 diay{ENTER}non{ENTER}{DOWN}{ENTER}
@@ -110,7 +110,7 @@ wih{ENTER}30px;{ENTER}
 fat{ENTER}lef{ENTER}{DOWN}{ENTER}
 
 .card-header .menu ul li a i {{}{ENTER}
-col{ENTER}#ffffff;
+col{ENTER}#ffffff;{ENTER}
 dis{ENTER}block;{DOWN}{ENTER}
 
 .card-header .menu:hover > ul {{}{ENTER}
@@ -165,7 +165,7 @@ band{ENTER}#8e44ad;{DOWN}{ENTER}
 .right-section {{}{ENTER}
 tegn{ENTER}rit{ENTER}{ENTER}
 fat{ENTER}rit{ENTER}{ENTER}
-ovfl{ENTER}hid{ENTER}{DOWN}{ENTER}
+ovfl{ENTER}hidden;{DOWN}{ENTER}
 
 .item {{}{ENTER}
 marn{ENTER}6px 0px;{DOWN}{ENTER}
