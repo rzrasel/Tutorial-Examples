@@ -14,9 +14,9 @@ di{ENTER}cover{DOWN}+{HOME}{BACKSPACE}{DOWN}{HOME}+{HOME}{BACKSPACE}{BACKSPACE}{
 di{ENTER}menu{END}{DOWN}
 
 ul{ENTER}
-li{ENTER}a{ENTER}{RIGHT}{RIGHT}{RIGHT}i{ENTER}{LEFT}{SPACE}cla{ENTER}ion-social-facebook{END}{ENTER}
-li{ENTER}a{ENTER}{RIGHT}{RIGHT}{RIGHT}i{ENTER}{LEFT}{SPACE}cla{ENTER}ion-social-twitter{END}{ENTER}
-li{ENTER}a{ENTER}{RIGHT}{RIGHT}{RIGHT}i{ENTER}{LEFT}{SPACE}cla{ENTER}ion-social-instagram{END}{ENTER}
+li{ENTER}{<}a href="#"{>}{<}i cla{ENTER}ion-social-facebook{RIGHT}{>}{<}/i{>}{<}/a{>}{END}{ENTER}
+li{ENTER}{<}a href="#"{>}{<}i cla{ENTER}ion-social-twitter{RIGHT}{>}{<}/i{>}{<}/a{>}{END}{ENTER}
+li{ENTER}{<}a href="#"{>}{<}i cla{ENTER}ion-social-instagram{RIGHT}{>}{<}/i{>}{<}/a{>}{END}{DOWN}{ENTER}
 sp{ENTER}{LEFT}{SPACE}cla{ENTER}ion-android-more-vertical{DOWN}{ENTER}
 
 di{ENTER}name{DOWN}
