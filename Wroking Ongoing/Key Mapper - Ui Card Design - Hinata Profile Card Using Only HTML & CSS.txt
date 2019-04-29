@@ -151,7 +151,7 @@ marn{ENTER}30px 0px;{DOWN}{ENTER}
 
 .left-section .btn-follow {{}{ENTER}
 col{ENTER}#ffffff;{ENTER}
-tegn{ENTER}cent{ENTER}{ENTER}
+tegn{ENTER}cen{ENTER}{ENTER}
 bous{ENTER}12px;{ENTER}
 band{ENTER}#9b59b6;{ENTER}
 wih{ENTER}100{%};{ENTER}
