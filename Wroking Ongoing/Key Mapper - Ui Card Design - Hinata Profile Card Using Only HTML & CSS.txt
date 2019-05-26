@@ -48,11 +48,17 @@ sp{ENTER}{LEFT}{SPACE}cla{ENTER}word{RIGHT}{RIGHT}Views{END}{DOWN}
 //|--------------------------------------------|
 
 {DELAY=200}
-@import {(}"http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"{)};{ENTER}
+{ENTER}{ENTER}{ENTER}{ENTER}{ENTER}{ENTER}{ENTER}{ENTER}
+/*Rashed - Uz - Zaman{(}Rz Rasel{)} | Badge Mate youtube channel*/
+{ENTER}{ENTER}{ENTER}{ENTER}
+/* *** */
+{UP}{UP}{UP}{UP}{UP}{UP}{UP}{UP}
+{UP}{UP}{UP}{UP}
+@import  url{(}"http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"{)};{ENTER}
 {*} {{}{ENTER}
 fonfa{ENTER}"Helvetica Neue", Helvetica, Arial, sans-serif, "Century Gothic";{ENTER}
 tede{ENTER}no{ENTER}{ENTER}
-tede{ENTER}no{ENTER}{ENTER}
+list{ENTER}no{ENTER}{ENTER}
 pan{ENTER}0px;{ENTER}
 mag{ENTER}0px;{DOWN}{ENTER}
 
@@ -117,7 +123,7 @@ dis{ENTER}block;{DOWN}{ENTER}
 diay{ENTER}blo{ENTER}{DOWN}{ENTER}
 
 .card-header .menu ul li a:hover i {{}{ENTER}
-dis{ENTER}block;{DOWN}{ENTER}
+col{ENTER}#8e44ad;{DOWN}{ENTER}
 
 .card-header .name {{}{ENTER}
 col{ENTER}#08000B;{ENTER}
@@ -156,7 +162,7 @@ bous{ENTER}12px;{ENTER}
 band{ENTER}#9b59b6;{ENTER}
 wih{ENTER}100{%};{ENTER}
 padg{ENTER}8px 0px;{ENTER}
-diay{ENTER}bloc{ENTER}{ENTER}
+diay{ENTER}blo{ENTER}{ENTER}
 tron{ENTER}0.2s all;{DOWN}{ENTER}
 
 .left-section .btn-follow:hover {{}{ENTER}
